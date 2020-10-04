@@ -8,7 +8,7 @@ $params = @{
     CompanyName       = 'xDLabs'
     Description       = 'VMwareWorkstationCmdlets Module provides various cmdlets to interact with VMware Workstation Rest API'
     Copyright         = '(c) 2020 Grzegorz Kulikowski.xDlabs. All rights reserved.'
-    PowerShellVersion = '3.0'
+    PowerShellVersion = '7.0'
 
 }
 New-ModuleManifest @params

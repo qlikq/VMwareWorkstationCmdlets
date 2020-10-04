@@ -18,7 +18,7 @@ ModuleVersion = '0.0.1'
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = '7841fc26-e4ca-448f-979c-2a9e78abc0b6'
+GUID = 'a5b6a3d2-24b4-40b4-84b0-6a6bd70b2aba'
 
 # Author of this module
 Author = 'Grzegorz Kulikowski'
@@ -33,7 +33,7 @@ Copyright = '(c) 2020 Grzegorz Kulikowski.xDlabs. All rights reserved.'
 Description = 'VMwareWorkstationCmdlets Module provides various cmdlets to interact with VMware Workstation Rest API'
 
 # Minimum version of the PowerShell engine required by this module
-PowerShellVersion = '3.0'
+PowerShellVersion = '7.0'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
